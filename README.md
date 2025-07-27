@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **souvikc086@gmail.com** For Collaboration/Project or Anyth
 
 - 🔭 **I’m currently working on:** Medical AI Assistant
 - 🌱 **I’m currently learning:** swift
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 👯 **I’m looking to collaborate on:** Medical AI Assistant
+- 🤔 **I’m looking for help with:** Medical AI Assistant.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** souvik!
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
